@@ -7,4 +7,4 @@
 |'net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.1.0'       |Keyboard Functionality Checker     |https://github.com/yshrsmz/KeyboardVisibilityEvent  |
 |'com.squareup.picasso:picasso:2.8'         |Picasso: Image Download and Cache Library for Android            | https://github.com/square/picasso |
 |'com.squareup.retrofit2:retrofit:2.9.0'|A type-safe HTTP client for Android and Java.|https://github.com/square/retrofit
-|
+|**npm install -g daggraph**|Daggraph: dependency graph generator for Android Developers|https://github.com/dvdciri/daggraph|
