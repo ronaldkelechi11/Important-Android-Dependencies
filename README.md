@@ -1,7 +1,7 @@
 # Important Android Dependencies
 > This Repo Includes important depencies that as an android developer you might come across and use on a project
 ## All **respect** to the deveoper of the depencies
-#### **Please Note all dependencies that indicate 'dependencyUrl' should include <br>implementation 'dependencyUrl' when using in build.gradle**
+ *Please Note all dependencies that indicate 'dependencyUrl' should include **implementation 'dependencyUrl'** when using in build.gradle*
 | Dependeny Implimentaion | Functionality               | Dependency Link |
 | ---------------         | ---------------             | ---------------     |
 |'net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.1.0'       |Keyboard Functionality Checker     |https://github.com/yshrsmz/KeyboardVisibilityEvent  |
