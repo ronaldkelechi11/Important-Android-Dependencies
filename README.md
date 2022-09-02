@@ -11,4 +11,5 @@
 |'org.apache.httpcomponents:httpclient:4.5.5'|Apache HTTP CLIENT|https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient/4.5.5|
 |'com.ajts.androidmads.SQLite2Excel:library:1.0.4'|SQLite2Excel: used to connect SQLite to Excel|https://github.com/androidmads/SQLite2XL|
 |'de.hdodenhof:circleimageview:3.1.0'|Circular Image View|https://github.com/hdodenhof/CircleImageView|
-|compile 'com.makeramen:roundedimageview:2.3.0'|Roinded ImageView |https://github.com/hdodenhof/RoundedImageView|
+|compile 'com.makeramen:roundedimageview:2.3.0'|Rounded ImageView |https://github.com/hdodenhof/RoundedImageView|
+|'com.hbb20:ccp:X.Y.Z'|Country Code Picker Library|https://github.com/hbb20/CountryCodePickerProject|
